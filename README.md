@@ -31,6 +31,7 @@
 ### Результат
 **Выполнено.**
 
+Скрипт для создания хранимой процедуры находится в файле MyProc.sql
 Скрины полученной программы:
 
 ![](https://github.com/SpaceTranquility/TestTasks/blob/master/TaskSql/Images/demo1.png)
