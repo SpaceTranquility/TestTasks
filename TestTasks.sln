@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSQL", "TaskSql\TaskSQL.csproj", "{E8A12BB5-A707-4A3F-A541-6C8FA9200316}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskLib", "TaskLib\TaskLib.csproj", "{7C21371F-13B7-4764-8609-98FA59ACE529}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E8A12BB5-A707-4A3F-A541-6C8FA9200316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A12BB5-A707-4A3F-A541-6C8FA9200316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A12BB5-A707-4A3F-A541-6C8FA9200316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C21371F-13B7-4764-8609-98FA59ACE529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C21371F-13B7-4764-8609-98FA59ACE529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C21371F-13B7-4764-8609-98FA59ACE529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C21371F-13B7-4764-8609-98FA59ACE529}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
